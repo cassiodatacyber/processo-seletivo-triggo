@@ -184,18 +184,3 @@ Top 5 categorias por faturamento (produto + frete):
 
 Este projeto forneceu uma análise aprofundada sobre comportamento de compra, performance logística, fatores que afetam a satisfação e insights para segmentação de clientes. Além disso, foi implementado um modelo preditivo funcional para antecipar atrasos de entrega.
 
-### Potenciais Extensões:
-
-- Balanceamento de classes e tuning de modelos
-- Dashboards interativos com Streamlit ou Power BI
-- Implementação de rotinas de automação (ETL)
-
----
-
-## 📬 Contato
-
-Este projeto foi desenvolvido como parte do processo seletivo para a Triggo. Dúvidas ou sugestões podem ser enviadas por e-mail ou via LinkedIn.
-
----
-
-🚀 **Obrigado por ler até aqui!**
