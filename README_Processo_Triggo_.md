@@ -1,5 +1,5 @@
 
-# 🚀 Processo Seletivo Triggo - Análise de Dados do E-commerce Olist
+# 🚀 Análise de Dados do E-commerce Olist
 
 Este projeto tem como objetivo realizar uma análise completa do dataset da Olist, um marketplace brasileiro, como parte do processo seletivo da Triggo. A proposta envolve desde a análise exploratória de dados (EDA), passando por modelagem preditiva, até a segmentação de clientes e análise de satisfação.
 
